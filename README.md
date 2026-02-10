@@ -1,16 +1,29 @@
-## Hi there 👋
+ 👋 Hi, I'm Mizpaax Mouse
 
-<!--
-**mizpaaxm-oss/mizpaaxm-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring **Full-Stack Developer & UI/UX Designer**  
+🎨 Passionate about clean design & problem solving  
+🌍 From Somalia  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+🌐 HTML | CSS | JavaScript
+⚛️ React (learning)
+🎨 UI/UX Design (Figma)
+🗄️ SQL & Databases
+🤖 Using AI as a development tool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 📌 What I'm Working On
+ 🔹 Building small web projects
+ 🔹 Improving UI/UX skills
+ 🔹 Learning Full-Stack development step by step
+
+
+
+ 📫 Connect With Me
+GitHub: [@mizpaaxm-oss](https://github.com/mizpaaxm-oss)
+
+
+
+⭐ *I believe consistency beats talent.*
+
+
